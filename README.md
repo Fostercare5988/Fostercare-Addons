@@ -16,10 +16,10 @@ A quick overview of my addons for **World of Warcraft 1.12.1**. Open a repositor
 | **BetterCharacterStats** | Additional melee, ranged, spell and defensive character statistics. | [Open repository](https://github.com/Fostercare5988/BetterCharacterStats) |
 | **AutoLazy** | Loot-message filtering, farm-item rolls, a minimap tray and quest turn-ins. | [Open repository](https://github.com/Fostercare5988/AutoLazy) |
 | **TWThreat** | Threat bars, target indicators, alerts and a tank-mode view. | [Open repository](https://github.com/Fostercare5988/TWThreat) |
-| **AtlasLoot** | Browse possible loot from bosses and other sources. | [Open upstream repository](https://github.com/Otari98/AtlasLoot) |
-| **ActionBarProfiles** | Save and restore action-bar layouts. | [Open upstream repository](https://github.com/Siventt/ActionBarProfiles) |
+| **AtlasLoot** | Browse possible loot from bosses and other sources. | [Open private repository](https://github.com/Fostercare5988/AtlasLoot) |
+| **ActionBarProfiles** | Save and restore action-bar layouts. | [Open private repository](https://github.com/Fostercare5988/ActionBarProfiles) |
 
-**FostercareAuras is private:** its link works for accounts with access. AtlasLoot and ActionBarProfiles currently link to their upstream projects; upstream builds may differ from the installed versions.
+**Private repositories:** FostercareAuras, AtlasLoot and ActionBarProfiles require an account with access. AtlasLoot and ActionBarProfiles track the installed addon packages.
 
 ## Downloads and requirements
 
