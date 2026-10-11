@@ -19,13 +19,6 @@ A quick overview of my addons for **World of Warcraft 1.12.1**. Open a repositor
 | **AtlasLoot** | Browse possible loot from bosses and other sources. | [Open private repository](https://github.com/Fostercare5988/AtlasLoot) |
 | **ActionBarProfiles** | Save and restore action-bar layouts. | [Open private repository](https://github.com/Fostercare5988/ActionBarProfiles) |
 
-**Private repositories:** FostercareAuras, AtlasLoot and ActionBarProfiles require an account with access. AtlasLoot and ActionBarProfiles track the installed addon packages.
-
-## Downloads and requirements
-
-Use each addon's own README and release instructions. Some addons require client extensions such as ClassicAPI, SuperWoW or NamPower; check the requirements for the individual addon.
-
-When a release ZIP is available, use the packaged addon and preserve its required folder name. Keep existing SavedVariables when updating to retain settings.
 
 ## About this repository
 
