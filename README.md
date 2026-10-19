@@ -25,7 +25,7 @@ A quick overview of 16 maintained addons for [OctoWoW](https://octowow.st/) on *
 
 ## Engineering and client support
 
-[VanillaForge](https://github.com/Fostercare5988/VanillaForge-Addon-Engineering) holds engineering guidance, API references and validation tools. The supported client baseline is SuperWoW 2.2, ClassicAPI 1.15.16, NamPower 4.6.2 and UnitXP SP3 build 90, plus DXVK for graphics. Each addon declares the capabilities it consumes; DXVK is graphics infrastructure. Use the [OctoWoW database](https://octowow.st/db/) to verify custom content.
+[VanillaForge](https://github.com/Fostercare5988/VanillaForge-Addon-Engineering) holds engineering guidance, API references and validation tools. The supported client baseline is ClassicAPI 1.16.0, SuperWoW 2.2, NamPower 4.6.2 and UnitXP SP3 v89, plus DXVK for graphics. All 16 addons require ClassicAPI 1.16.0 or later; beyond that, each addon declares the capabilities it consumes. DXVK is graphics infrastructure. Use the [OctoWoW database](https://octowow.st/db/) to verify custom content.
 
 ## About this repository
 
