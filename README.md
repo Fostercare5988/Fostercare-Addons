@@ -1,6 +1,6 @@
 # Fostercare's WoW Addons
 
-A quick overview of 16 maintained addons for [OctoWoW](https://octowow.st/) on **World of Warcraft 1.12.1, build 5875, Interface 11200**. Open a repository below for its source, requirements and installation instructions.
+A quick overview of 14 maintained addons for [OctoWoW](https://octowow.st/) on **World of Warcraft 1.12.1, build 5875, Interface 11200**. Open a repository below for its source, requirements and installation instructions.
 
 ## Addon overview
 
@@ -17,15 +17,13 @@ A quick overview of 16 maintained addons for [OctoWoW](https://octowow.st/) on *
 | **BetterCharacterStats** | Additional melee, ranged, spell and defensive character statistics. | [Open repository](https://github.com/Fostercare5988/BetterCharacterStats) |
 | **AutoLazy** | Loot-message filtering, farm-item rolls, a minimap tray and quest turn-ins. | [Open repository](https://github.com/Fostercare5988/AutoLazy) |
 | **TWThreat** | Threat bars, target indicators, alerts and a tank-mode view. | [Open repository](https://github.com/Fostercare5988/TWThreat) |
-| **AtlasLoot** | Browse possible loot from bosses and other sources. | [Open private repository](https://github.com/Fostercare5988/AtlasLoot) |
 | **ActionBarProfiles** | Save and restore action-bar layouts. | [Open private repository](https://github.com/Fostercare5988/ActionBarProfiles) |
-| **BigWigs** | Encounter warnings, timers and manual version queries. | [Open repository](https://github.com/Fostercare5988/BigWigs) |
-| **SuperAPI** | SuperWoW settings and native interface integration. | [Open repository](https://github.com/Fostercare5988/SuperAPI) |
 | **UnitXP_SP3_Addon** | Lua settings and interface support for the UnitXP SP3 extension. | [Open repository](https://github.com/Fostercare5988/UnitXP_SP3_Addon) |
+| **OctoMail** | Open all mail, recipient autocomplete, a mail log and marked-up auction mail. | [Open repository](https://github.com/Fostercare5988/OctoMail) |
 
 ## Engineering and client support
 
-[VanillaForge](https://github.com/Fostercare5988/VanillaForge-Addon-Engineering) holds engineering guidance, API references and validation tools. The supported client baseline is ClassicAPI 1.16.0, SuperWoW 2.2, NamPower 4.6.2 and UnitXP SP3 v89, plus DXVK for graphics. All 16 addons require ClassicAPI 1.16.0 or later; beyond that, each addon declares the capabilities it consumes. DXVK is graphics infrastructure. Use the [OctoWoW database](https://octowow.st/db/) to verify custom content.
+[VanillaForge](https://github.com/Fostercare5988/VanillaForge-Addon-Engineering) holds engineering guidance, API references and validation tools. The supported client baseline is ClassicAPI 1.16.0, SuperWoW 2.2, NamPower 4.6.2 and UnitXP SP3 v89, plus DXVK for graphics. All 14 addons require ClassicAPI 1.16.0 or later (OctoMail from its modernization, now in progress); beyond that, each addon declares the capabilities it consumes. DXVK is graphics infrastructure. Use the [OctoWoW database](https://octowow.st/db/) to verify custom content.
 
 ## About this repository
 
