@@ -18,7 +18,6 @@ A quick overview of 14 maintained addons for [OctoWoW](https://octowow.st/) on *
 | **AutoLazy** | Loot-message filtering, farm-item rolls, a minimap tray and quest turn-ins. | [Open repository](https://github.com/Fostercare5988/AutoLazy) |
 | **TWThreat** | Threat bars, target indicators, alerts and a tank-mode view. | [Open repository](https://github.com/Fostercare5988/TWThreat) |
 | **ActionBarProfiles** | Save and restore action-bar layouts. | [Open private repository](https://github.com/Fostercare5988/ActionBarProfiles) |
-| **UnitXP_SP3_Addon** | Lua settings and interface support for the UnitXP SP3 extension. | [Open repository](https://github.com/Fostercare5988/UnitXP_SP3_Addon) |
 | **OctoMail** | Open all mail, recipient autocomplete, a mail log and marked-up auction mail. | [Open repository](https://github.com/Fostercare5988/OctoMail) |
 
 ## Engineering and client support
