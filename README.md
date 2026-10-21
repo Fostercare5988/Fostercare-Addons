@@ -1,6 +1,6 @@
 # Fostercare's WoW Addons
 
-A quick overview of 16 maintained addons for [OctoWoW](https://octowow.st/) on **World of Warcraft 1.12.1, build 5875, Interface 11200**. Open a repository below for its source, requirements and installation instructions.
+A quick overview of 16 maintained addons for **World of Warcraft 1.12.1, build 5875, Interface 11200**. Open a repository below for its source, requirements and installation instructions.
 
 ## Addon overview
 
@@ -25,7 +25,7 @@ A quick overview of 16 maintained addons for [OctoWoW](https://octowow.st/) on *
 
 ## Engineering and client support
 
-[VanillaForge](https://github.com/Fostercare5988/VanillaForge-Addon-Engineering) holds engineering guidance, API references and validation tools. The supported client baseline is ClassicAPI 1.16.0, SuperWoW 2.2, NamPower 4.6.2 and UnitXP SP3 v89, plus DXVK for graphics. All 16 addons require ClassicAPI; 15 check for 1.16.0 or later (OctoMail from its modernization, now in progress), while !ErrorLog only needs it to be loaded; beyond that, each addon declares the capabilities it consumes. DXVK is graphics infrastructure. Use the [OctoWoW database](https://octowow.st/db/) to verify custom content.
+[VanillaForge](https://github.com/Fostercare5988/VanillaForge-Addon-Engineering) holds engineering guidance, API references and validation tools. The supported client baseline is ClassicAPI 1.16.0, SuperWoW 2.2, NamPower 4.6.2 and UnitXP SP3 v89, plus DXVK for graphics. All 16 addons require ClassicAPI; 15 check for 1.16.0 or later (OctoMail from its modernization, now in progress), while !ErrorLog only needs it to be loaded; beyond that, each addon declares the capabilities it consumes. DXVK is graphics infrastructure.
 
 ## About this repository
 
