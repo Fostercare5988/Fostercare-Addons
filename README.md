@@ -1,6 +1,6 @@
 # Fostercare's WoW Addons
 
-A quick overview of 14 maintained addons for [OctoWoW](https://octowow.st/) on **World of Warcraft 1.12.1, build 5875, Interface 11200**. Open a repository below for its source, requirements and installation instructions.
+A quick overview of 16 maintained addons for [OctoWoW](https://octowow.st/) on **World of Warcraft 1.12.1, build 5875, Interface 11200**. Open a repository below for its source, requirements and installation instructions.
 
 ## Addon overview
 
@@ -19,11 +19,13 @@ A quick overview of 14 maintained addons for [OctoWoW](https://octowow.st/) on *
 | **TWThreat** | Threat bars, target indicators, alerts and a tank-mode view. | [Open repository](https://github.com/Fostercare5988/TWThreat) |
 | **ActionBarProfiles** | Save and restore action-bar layouts. | [Open private repository](https://github.com/Fostercare5988/ActionBarProfiles) |
 | **OctoMail** | Open all mail, recipient autocomplete, a mail log and marked-up auction mail. | [Open repository](https://github.com/Fostercare5988/OctoMail) |
+| **EasyPoisons** | Plan a batch of rogue poisons and buy the missing reagents in one click (based on Horyoshi's EasyPoisons). | [Open private repository](https://github.com/Fostercare5988/EasyPoisons) |
+| **BrainwasherPro** | Named talent specs at the Goblin Brainwashing Device, with an action bar profile per spec (based on Horyoshi's BrainwasherPro). | [Open repository](https://github.com/Fostercare5988/BrainwasherPro) |
 | **!ErrorLog** | Catches every Lua error in a copyable window and finds what makes the game stutter (`/err`, `/lag`). | [Open repository](https://github.com/Fostercare5988/ErrorLog) |
 
 ## Engineering and client support
 
-[VanillaForge](https://github.com/Fostercare5988/VanillaForge-Addon-Engineering) holds engineering guidance, API references and validation tools. The supported client baseline is ClassicAPI 1.16.0, SuperWoW 2.2, NamPower 4.6.2 and UnitXP SP3 v89, plus DXVK for graphics. All 14 addons require ClassicAPI; 13 check for 1.16.0 or later (OctoMail from its modernization, now in progress), while !ErrorLog only needs it to be loaded; beyond that, each addon declares the capabilities it consumes. DXVK is graphics infrastructure. Use the [OctoWoW database](https://octowow.st/db/) to verify custom content.
+[VanillaForge](https://github.com/Fostercare5988/VanillaForge-Addon-Engineering) holds engineering guidance, API references and validation tools. The supported client baseline is ClassicAPI 1.16.0, SuperWoW 2.2, NamPower 4.6.2 and UnitXP SP3 v89, plus DXVK for graphics. All 16 addons require ClassicAPI; 15 check for 1.16.0 or later (OctoMail from its modernization, now in progress), while !ErrorLog only needs it to be loaded; beyond that, each addon declares the capabilities it consumes. DXVK is graphics infrastructure. Use the [OctoWoW database](https://octowow.st/db/) to verify custom content.
 
 ## About this repository
 
