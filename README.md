@@ -19,10 +19,11 @@ A quick overview of 14 maintained addons for [OctoWoW](https://octowow.st/) on *
 | **TWThreat** | Threat bars, target indicators, alerts and a tank-mode view. | [Open repository](https://github.com/Fostercare5988/TWThreat) |
 | **ActionBarProfiles** | Save and restore action-bar layouts. | [Open private repository](https://github.com/Fostercare5988/ActionBarProfiles) |
 | **OctoMail** | Open all mail, recipient autocomplete, a mail log and marked-up auction mail. | [Open repository](https://github.com/Fostercare5988/OctoMail) |
+| **!ErrorLog** | Catches every Lua error in a copyable window and finds what makes the game stutter (`/err`, `/lag`). | [Open repository](https://github.com/Fostercare5988/ErrorLog) |
 
 ## Engineering and client support
 
-[VanillaForge](https://github.com/Fostercare5988/VanillaForge-Addon-Engineering) holds engineering guidance, API references and validation tools. The supported client baseline is ClassicAPI 1.16.0, SuperWoW 2.2, NamPower 4.6.2 and UnitXP SP3 v89, plus DXVK for graphics. All 14 addons require ClassicAPI 1.16.0 or later (OctoMail from its modernization, now in progress); beyond that, each addon declares the capabilities it consumes. DXVK is graphics infrastructure. Use the [OctoWoW database](https://octowow.st/db/) to verify custom content.
+[VanillaForge](https://github.com/Fostercare5988/VanillaForge-Addon-Engineering) holds engineering guidance, API references and validation tools. The supported client baseline is ClassicAPI 1.16.0, SuperWoW 2.2, NamPower 4.6.2 and UnitXP SP3 v89, plus DXVK for graphics. All 14 addons require ClassicAPI; 13 check for 1.16.0 or later (OctoMail from its modernization, now in progress), while !ErrorLog only needs it to be loaded; beyond that, each addon declares the capabilities it consumes. DXVK is graphics infrastructure. Use the [OctoWoW database](https://octowow.st/db/) to verify custom content.
 
 ## About this repository
 
