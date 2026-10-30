@@ -29,7 +29,7 @@ A quick overview of 20 addons for **World of Warcraft 1.12.1, build 5875, Interf
 
 ## Engineering and client support
 
-[VanillaForge](https://github.com/Fostercare5988/VanillaForge-Addon-Engineering) holds engineering guidance, API references and validation tools. The supported client baseline is ClassicAPI 1.17.10, SuperWoW 2.2, NamPower 4.6.2 and UnitXP SP3 v89, plus DXVK for graphics. All 20 addons require ClassicAPI: FostercareTweaks and FostercareNameplates check for 1.17.10 or later, 17 others for 1.17.7 or later, and !ErrorLog only needs it to be loaded; beyond that, each addon declares the capabilities it consumes. DXVK is graphics infrastructure.
+[VanillaForge](https://github.com/Fostercare5988/VanillaForge-Addon-Engineering) holds engineering guidance, API references and validation tools. All 20 addons run on the latest releases of ClassicAPI, SuperWoW, NamPower and UnitXP SP3, plus DXVK for graphics. Every addon requires ClassicAPI; the addons that also need SuperWoW, NamPower or UnitXP SP3 say so in their own README. The exact versions they are built and tested against are pinned in one place, [UPSTREAM_VERSIONS.json](https://github.com/Fostercare5988/VanillaForge-Addon-Engineering/blob/main/UPSTREAM_VERSIONS.json).
 
 ## About this repository
 
