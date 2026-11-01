@@ -13,7 +13,6 @@ A quick overview of 20 addons for **World of Warcraft 1.12.1, build 5875, Interf
 | **AutoLazy** | Loot-message filtering, farm-item rolls, a minimap tray and quest turn-ins. | [Open repository](https://github.com/Fostercare5988/AutoLazy) |
 | **aux-addon** | Auction-house searches, buying, selling and price history. | [Open repository](https://github.com/Fostercare5988/aux-addon) |
 | **Bagnon** | Unified bags and bank, sorting and cached character inventories. | [Open repository](https://github.com/Fostercare5988/Bagnon) |
-| **BetterCharacterStats** | Additional melee, ranged, spell and defensive character statistics. | [Open repository](https://github.com/Fostercare5988/BetterCharacterStats) |
 | **BigWigs** | Boss encounter warnings and timer bars. | [Open private repository](https://github.com/Fostercare5988/BigWigs) |
 | **BrainwasherPro** | Named talent specs at the Goblin Brainwashing Device, with an action bar profile per spec (based on Horyoshi's BrainwasherPro). | [Open repository](https://github.com/Fostercare5988/BrainwasherPro) |
 | **EasyPoisons** | Plan a batch of rogue poisons and buy the missing reagents in one click (based on Horyoshi's EasyPoisons). | [Open repository](https://github.com/Fostercare5988/EasyPoisons) |
@@ -23,7 +22,6 @@ A quick overview of 20 addons for **World of Warcraft 1.12.1, build 5875, Interf
 | **GearRack** | Equipment sets, trinket priorities and weapon swapping. | [Open repository](https://github.com/Fostercare5988/GearRack) |
 | **MikScrollingBattleText** | Scrolling combat text, healing, resource gains and alerts. | [Open repository](https://github.com/Fostercare5988/MikScrollingBattleText) |
 | **OctoMail** | Open all mail, recipient autocomplete, a mail log and marked-up auction mail. | [Open repository](https://github.com/Fostercare5988/OctoMail) |
-| **SuperAPI** | Companion addon for SuperWoW: interface compatibility and a minimap menu for its settings. | [Open private repository](https://github.com/Fostercare5988/SuperAPI) |
 | **TWThreat** | Threat bars, target indicators, alerts and a tank-mode view. | [Open repository](https://github.com/Fostercare5988/TWThreat) |
 | **UnitXP_SP3_Addon** | Settings menu for the UnitXP SP3 extension. | [Open private repository](https://github.com/Fostercare5988/UnitXP_SP3_Addon) |
 
