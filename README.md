@@ -16,7 +16,6 @@ A quick overview of 20 addons for **World of Warcraft 1.12.1, build 5875, Interf
 | **BigWigs** | Boss encounter warnings and timer bars. | [Open private repository](https://github.com/Fostercare5988/BigWigs) |
 | **BrainwasherPro** | Named talent specs at the Goblin Brainwashing Device, with an action bar profile per spec (based on Horyoshi's BrainwasherPro). | [Open repository](https://github.com/Fostercare5988/BrainwasherPro) |
 | **EasyPoisons** | Plan a batch of rogue poisons and buy the missing reagents in one click (based on Horyoshi's EasyPoisons). | [Open repository](https://github.com/Fostercare5988/EasyPoisons) |
-| **FostercareAuras** | Personal ability, aura, item and resource trackers. | [Open private repository](https://github.com/Fostercare5988/FostercareAuras) |
 | **FostercareNameplates** | Separate nameplate appearance and cast displays; enable deliberately in the addon list. | [Open repository](https://github.com/Fostercare5988/FostercareNameplates) |
 | **FostercareTweaks** | Action bars, party and raid frames, improvements to Blizzard's unit frames and interface tweaks. | [Open repository](https://github.com/Fostercare5988/FostercareTweaks) |
 | **GearRack** | Equipment sets, trinket priorities and weapon swapping. | [Open repository](https://github.com/Fostercare5988/GearRack) |
