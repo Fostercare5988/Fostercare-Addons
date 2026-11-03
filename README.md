@@ -19,7 +19,7 @@ A quick overview of 20 addons for **World of Warcraft 1.12.1, build 5875, Interf
 | **FostercareNameplates** | Separate nameplate appearance and cast displays; enable deliberately in the addon list. | [Open repository](https://github.com/Fostercare5988/FostercareNameplates) |
 | **FostercareTweaks** | Action bars, party and raid frames, improvements to Blizzard's unit frames and interface tweaks. | [Open repository](https://github.com/Fostercare5988/FostercareTweaks) |
 | **GearRack** | Equipment sets, trinket priorities and weapon swapping. | [Open repository](https://github.com/Fostercare5988/GearRack) |
-| **MikScrollingBattleText** | Scrolling combat text, healing, resource gains and alerts. | [Open repository](https://github.com/Fostercare5988/MikScrollingBattleText) |
+| **FostercareBattleText** | Scrolling combat text, healing, resource gains and alerts (formerly Mik's Scrolling Battle Text). | [Open repository](https://github.com/Fostercare5988/FostercareBattleText) |
 | **OctoMail** | Open all mail, recipient autocomplete, a mail log and marked-up auction mail. | [Open repository](https://github.com/Fostercare5988/OctoMail) |
 | **TWThreat** | Threat bars, target indicators, alerts and a tank-mode view. | [Open repository](https://github.com/Fostercare5988/TWThreat) |
 | **UnitXP_SP3_Addon** | Settings menu for the UnitXP SP3 extension. | [Open private repository](https://github.com/Fostercare5988/UnitXP_SP3_Addon) |
