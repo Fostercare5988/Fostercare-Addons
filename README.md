@@ -1,6 +1,6 @@
 # Fostercare's WoW Addons
 
-A quick overview of 20 addons for **World of Warcraft 1.12.1, build 5875, Interface 11200**. Open a repository below for its source, requirements and installation instructions. Private repositories are heavily customized for one setup and are not meant for general use.
+A quick overview of 18 addons for **World of Warcraft 1.12.1, build 5875, Interface 11200**. Open a repository below for its source, requirements and installation instructions. Private repositories are heavily customized for one setup and are not meant for general use.
 
 ## Addon overview
 
@@ -16,11 +16,12 @@ A quick overview of 20 addons for **World of Warcraft 1.12.1, build 5875, Interf
 | **BigWigs** | Boss encounter warnings and timer bars. | [Open private repository](https://github.com/Fostercare5988/BigWigs) |
 | **BrainwasherPro** | Named talent specs at the Goblin Brainwashing Device, with an action bar profile per spec (based on Horyoshi's BrainwasherPro). | [Open repository](https://github.com/Fostercare5988/BrainwasherPro) |
 | **EasyPoisons** | Plan a batch of rogue poisons and buy the missing reagents in one click (based on Horyoshi's EasyPoisons). | [Open repository](https://github.com/Fostercare5988/EasyPoisons) |
+| **FostercareBattleText** | Scrolling combat text, healing, resource gains and alerts (formerly Mik's Scrolling Battle Text). | [Open repository](https://github.com/Fostercare5988/FostercareBattleText) |
 | **FostercareNameplates** | Separate nameplate appearance and cast displays; enable deliberately in the addon list. | [Open repository](https://github.com/Fostercare5988/FostercareNameplates) |
 | **FostercareTweaks** | Action bars, party and raid frames, improvements to Blizzard's unit frames and interface tweaks. | [Open repository](https://github.com/Fostercare5988/FostercareTweaks) |
 | **GearRack** | Equipment sets, trinket priorities and weapon swapping. | [Open repository](https://github.com/Fostercare5988/GearRack) |
-| **FostercareBattleText** | Scrolling combat text, healing, resource gains and alerts (formerly Mik's Scrolling Battle Text). | [Open repository](https://github.com/Fostercare5988/FostercareBattleText) |
 | **Mailroom** | ClassicAPI Mailbox addon. | [Open repository](https://github.com/Fostercare5988/Mailroom) |
+| **SuperAPI** | Companion addon for the SuperWoW extension. | [Open private repository](https://github.com/Fostercare5988/SuperAPI) |
 | **ThreatMeter** | ClassicAPI Threat Meter addon. | [Open repository](https://github.com/Fostercare5988/ThreatMeter) |
 | **UnitXP_SP3_Addon** | Settings menu for the UnitXP SP3 extension. | [Open private repository](https://github.com/Fostercare5988/UnitXP_SP3_Addon) |
 
