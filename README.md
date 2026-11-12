@@ -6,7 +6,8 @@ A quick overview of 18 addons for **World of Warcraft 1.12.1, build 5875, Interf
 
 | Addon | Purpose | Repository |
 | --- | --- | --- |
-| **!ErrorLog** | Catches every Lua error in a copyable window and finds what makes the game stutter (`/err`, `/lag`). | [Open repository](https://github.com/Fostercare5988/ErrorLog) |
+| **!ErrorLog** | Catches every Lua error in a copyable window and finds what makes the game stutter or freeze (`/err`, `/lag`, `/trace`).
+ | [Open repository](https://github.com/Fostercare5988/ErrorLog) |
 | **ActionBarProfiles** | Save and restore action-bar layouts. | [Open private repository](https://github.com/Fostercare5988/ActionBarProfiles) |
 | **AtlasLoot** | Loot tables for dungeons, raids, world bosses and other sources. | [Open private repository](https://github.com/Fostercare5988/AtlasLoot) |
 | **AutoBG** | Battleground queues, timers, flag carriers and enemy tracking. | [Open repository](https://github.com/Fostercare5988/AutoBG) |
