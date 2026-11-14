@@ -1,13 +1,12 @@
 # Fostercare's WoW Addons
 
-A quick overview of 18 addons for **World of Warcraft 1.12.1, build 5875, Interface 11200**. Open a repository below for its source, requirements and installation instructions. Private repositories are heavily customized for one setup and are not meant for general use.
+A quick overview of 18 addons for **World of Warcraft 1.12.1, build 5875, Interface 11200**. Open a repository below for its source, requirements and installation instructions; each public one has a release zip ready to extract into `Interface/AddOns`. Private repositories are heavily customized for one setup and are not meant for general use.
 
 ## Addon overview
 
 | Addon | Purpose | Repository |
 | --- | --- | --- |
-| **!ErrorLog** | Catches every Lua error in a copyable window and finds what makes the game stutter or freeze (`/err`, `/lag`, `/trace`).
- | [Open repository](https://github.com/Fostercare5988/ErrorLog) |
+| **!ErrorLog** | Catches every Lua error in a copyable window and finds what makes the game stutter or freeze (`/err`, `/lag`, `/trace`). | [Open repository](https://github.com/Fostercare5988/ErrorLog) |
 | **ActionBarProfiles** | Save and restore action-bar layouts. | [Open private repository](https://github.com/Fostercare5988/ActionBarProfiles) |
 | **AtlasLoot** | Loot tables for dungeons, raids, world bosses and other sources. | [Open private repository](https://github.com/Fostercare5988/AtlasLoot) |
 | **AutoBG** | Battleground queues, timers, flag carriers and enemy tracking. | [Open repository](https://github.com/Fostercare5988/AutoBG) |
@@ -21,14 +20,14 @@ A quick overview of 18 addons for **World of Warcraft 1.12.1, build 5875, Interf
 | **FostercareNameplates** | Separate nameplate appearance and cast displays; enable deliberately in the addon list. | [Open repository](https://github.com/Fostercare5988/FostercareNameplates) |
 | **FostercareTweaks** | Action bars, party and raid frames, improvements to Blizzard's unit frames and interface tweaks. | [Open repository](https://github.com/Fostercare5988/FostercareTweaks) |
 | **GearRack** | Equipment sets, trinket priorities and weapon swapping. | [Open repository](https://github.com/Fostercare5988/GearRack) |
-| **Mailroom** | ClassicAPI Mailbox addon. | [Open repository](https://github.com/Fostercare5988/Mailroom) |
+| **Mailroom** | Open All mail in one click, send many items at once and complete names as you type (based on TurtleMail). | [Open repository](https://github.com/Fostercare5988/Mailroom) |
 | **SuperAPI** | Companion addon for the SuperWoW extension. | [Open private repository](https://github.com/Fostercare5988/SuperAPI) |
-| **ThreatMeter** | ClassicAPI Threat Meter addon. | [Open repository](https://github.com/Fostercare5988/ThreatMeter) |
+| **ThreatMeter** | Group threat bars, how much more threat pulls aggro, and a warning before you do. | [Open repository](https://github.com/Fostercare5988/ThreatMeter) |
 | **UnitXP_SP3_Addon** | Settings menu for the UnitXP SP3 extension. | [Open private repository](https://github.com/Fostercare5988/UnitXP_SP3_Addon) |
 
 ## Engineering and client support
 
-[VanillaForge](https://github.com/Fostercare5988/VanillaForge-Addon-Engineering) holds engineering guidance, API references and validation tools. All 20 addons run on the latest releases of ClassicAPI, SuperWoW, NamPower and UnitXP SP3, plus DXVK for graphics. Every addon requires ClassicAPI; the addons that also need SuperWoW, NamPower or UnitXP SP3 say so in their own README. The exact versions they are built and tested against are pinned in one place, [UPSTREAM_VERSIONS.json](https://github.com/Fostercare5988/VanillaForge-Addon-Engineering/blob/main/UPSTREAM_VERSIONS.json).
+[VanillaForge](https://github.com/Fostercare5988/VanillaForge-Addon-Engineering) holds engineering guidance, API references and validation tools. All 18 addons run on the latest releases of ClassicAPI, SuperWoW, NamPower and UnitXP SP3, plus DXVK for graphics. Every addon requires ClassicAPI; the addons that also need SuperWoW, NamPower or UnitXP SP3 say so in their own README. The exact versions they are built and tested against are pinned in one place, [UPSTREAM_VERSIONS.json](https://github.com/Fostercare5988/VanillaForge-Addon-Engineering/blob/main/UPSTREAM_VERSIONS.json).
 
 ## About this repository
 
