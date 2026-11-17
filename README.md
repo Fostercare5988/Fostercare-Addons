@@ -17,7 +17,7 @@ A quick overview of 19 addons for **World of Warcraft 1.12.1, build 5875, Interf
 | **FostercareNameplates** | Separate nameplate appearance and cast displays; enable deliberately in the addon list. | [Open repository](https://github.com/Fostercare5988/FostercareNameplates) |
 | **FostercareTweaks** | Action bars, party and raid frames, improvements to Blizzard's unit frames and interface tweaks. | [Open repository](https://github.com/Fostercare5988/FostercareTweaks) |
 | **GearRack** | Equipment sets, trinket priorities and weapon swapping. | [Open repository](https://github.com/Fostercare5988/GearRack) |
-| **Mailroom** | Open All mail in one click, send many items at once and complete names as you type (based on TurtleMail). | [Open repository](https://github.com/Fostercare5988/Mailroom) |
+| **Mail** | [Open repository](https://github.com/Fostercare5988/Mail) |
 | **ThreatMeter** | Group threat bars, how much more threat pulls aggro, and a warning before you do. | [Open repository](https://github.com/Fostercare5988/ThreatMeter) |
 
 ## Ignored for now
