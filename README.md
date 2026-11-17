@@ -7,12 +7,12 @@ A quick overview of 21 addons for **World of Warcraft 1.12.1, build 5875, Interf
 | Addon | Purpose | Repository |
 | --- | --- | --- |
 | **!ErrorLog** | Catches every Lua error in a copyable window and finds what makes the game stutter or freeze (`/err`, `/lag`, `/trace`). | [Open repository](https://github.com/Fostercare5988/ErrorLog) |
-| **ActionBarProfiles** | Save and restore action-bar layouts. Being rebuilt as FostercareBars, the action bars and their profiles; the repository is renamed at its release. | [Open private repository](https://github.com/Fostercare5988/ActionBarProfiles) |
 | **AutoBG** | Battleground queues, timers, flag carriers and enemy tracking. | [Open repository](https://github.com/Fostercare5988/AutoBG) |
 | **AutoLazy** | Loot-message filtering, farm-item rolls, a minimap tray and quest turn-ins. | [Open repository](https://github.com/Fostercare5988/AutoLazy) |
 | **Bagnon** | Unified bags and bank, sorting and cached character inventories. | [Open repository](https://github.com/Fostercare5988/Bagnon) |
 | **BrainwasherPro** | Named talent specs at the Goblin Brainwashing Device, with an action bar profile per spec (based on Horyoshi's BrainwasherPro). | [Open repository](https://github.com/Fostercare5988/BrainwasherPro) |
 | **EasyPoisons** | Plan a batch of rogue poisons and buy the missing reagents in one click (based on Horyoshi's EasyPoisons). | [Open repository](https://github.com/Fostercare5988/EasyPoisons) |
+| **FostercareBars** | Modern action bars on the same slots and keys, up to 10 extra bars for spells, items, macros and equipment sets, and named profiles of every bar (replaces ActionBarProfiles). | [Open repository](https://github.com/Fostercare5988/FostercareBars) |
 | **FostercareBattleText** | Scrolling combat text, healing, resource gains and alerts (formerly Mik's Scrolling Battle Text). | [Open repository](https://github.com/Fostercare5988/FostercareBattleText) |
 | **FostercareFrames** | Blizzard's player, target and pet frames: class colours, exact numbers, cast bars, energy ticks, auras under the frames, the top-right buffs and weapon enchants, and watched auras. | [Open repository](https://github.com/Fostercare5988/FostercareFrames) |
 | **FostercareNameplates** | Separate nameplate appearance and cast displays; enable deliberately in the addon list. | [Open repository](https://github.com/Fostercare5988/FostercareNameplates) |
