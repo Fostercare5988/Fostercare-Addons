@@ -13,9 +13,10 @@ AddOn Options**. Six are done; nine still run their older code.
 
 | Addon | What it does | Settings | Repository |
 | --- | --- | --- | --- |
+| **Auras** | Watched auras, a light WeakAuras: your chosen buffs and your target's debuffs, each its own icon with the time left; Only mine; a buff's cooldown after it ends. | `/auras` | [Auras](https://github.com/Fostercare5988/Auras) |
 | **AutoLazy** | Auto-rolls farm items, accepts bind-on-pickup, hides roll spam, Shift turns in quests, and gathers the minimap buttons into one tray. | `/al` | [AutoLazy](https://github.com/Fostercare5988/AutoLazy) |
 | **FostercareBars** | Modern action bars on the same slots and keys, up to 10 extra bars for spells, items, macros and equipment sets, and named profiles of every bar. Replaces ActionBarProfiles. | `/fbars` | [FostercareBars](https://github.com/Fostercare5988/FostercareBars) |
-| **FostercareFrames** | Blizzard's player, target and pet frames: class colours, exact numbers, cast bars, energy ticks, auras under the frames, the top-right buffs and weapon enchants, and watched auras. | `/ffr` | [FostercareFrames](https://github.com/Fostercare5988/FostercareFrames) |
+| **FostercareFrames** | Blizzard's player, target and pet frames: class colours, exact numbers, cast bars, energy ticks, auras under the frames, the top-right buffs and weapon enchants. | `/ffr` | [FostercareFrames](https://github.com/Fostercare5988/FostercareFrames) |
 | **FostercareRaid** | One grid for party and raid: click targeting, missing health, range, aggro and heal-over-time corners, buffs and debuffs. | `/fraid` | [FostercareRaid](https://github.com/Fostercare5988/FostercareRaid) |
 | **FostercareTweaks** | Item tooltips (sell prices, compare, quality borders), Sell Junk, chat, the minimap, the world map and Auto Stance. | `/ft` | [FostercareTweaks](https://github.com/Fostercare5988/FostercareTweaks) |
 | **Mail** | Opens all mail in one click, sends many items at once and completes recipient names. | nothing to set | [Mail](https://github.com/Fostercare5988/Mail) |
