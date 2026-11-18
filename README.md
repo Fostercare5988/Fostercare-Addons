@@ -27,14 +27,14 @@ They work and need ClassicAPI, but still run their older code.
 
 | Addon | What it does |
 | --- | --- |
-| [**!ErrorLog**](https://github.com/Fostercare5988/ErrorLog) | Catches every Lua error in a copyable window and finds what makes the game stutter or freeze (`/err`, `/lag`, `/trace`). |
 | [**AutoBG**](https://github.com/Fostercare5988/AutoBG) | Battleground queues, timers, flag carriers and enemy tracking. |
 | [**Bagnon**](https://github.com/Fostercare5988/Bagnon) | Unified bags and bank, sorting and cached character inventories. |
+| [**BattleText**](https://github.com/Fostercare5988/BattleText) | Scrolling combat text, healing, resource gains and alerts (formerly Mik's Scrolling Battle Text). |
 | [**BrainwasherPro**](https://github.com/Fostercare5988/BrainwasherPro) | Named talent specs at the Goblin Brainwashing Device, with an ActionBars profile per spec (based on Horyoshi's BrainwasherPro). |
 | [**EasyPoisons**](https://github.com/Fostercare5988/EasyPoisons) | Plan a batch of rogue poisons and buy the missing reagents in one click (based on Horyoshi's EasyPoisons). |
-| [**FostercareBattleText**](https://github.com/Fostercare5988/FostercareBattleText) | Scrolling combat text, healing, resource gains and alerts (formerly Mik's Scrolling Battle Text). |
-| [**FostercareNameplates**](https://github.com/Fostercare5988/FostercareNameplates) | Separate nameplate appearance and cast displays; enable it on purpose in the addon list. |
+| [**!ErrorLog**](https://github.com/Fostercare5988/ErrorLog) | Catches every Lua error in a copyable window and finds what makes the game stutter or freeze (`/err`, `/lag`, `/trace`). |
 | [**GearRack**](https://github.com/Fostercare5988/GearRack) | Equipment sets, trinket priorities and weapon swapping. |
+| [**Nameplates**](https://github.com/Fostercare5988/Nameplates) | Separate nameplate appearance and cast displays; enable it on purpose in the addon list. |
 | [**ThreatMeter**](https://github.com/Fostercare5988/ThreatMeter) | Group threat bars, how much more threat pulls aggro, and a warning before you do. |
 
 ## Ignored for now
