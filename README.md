@@ -30,8 +30,8 @@ They work and need ClassicAPI, but still run their older code.
 | [**AutoBG**](https://github.com/Fostercare5988/AutoBG) | Battleground queues, timers, flag carriers and enemy tracking. |
 | [**Bagnon**](https://github.com/Fostercare5988/Bagnon) | Unified bags and bank, sorting and cached character inventories. |
 | [**BattleText**](https://github.com/Fostercare5988/BattleText) | Scrolling combat text, healing, resource gains and alerts. |
-| [**BrainwasherPro**](https://github.com/Fostercare5988/BrainwasherPro) | Named talent specs at the Goblin Brainwashing Device, with an ActionBars profile per spec (based on Horyoshi's BrainwasherPro). |
-| [**EasyPoisons**](https://github.com/Fostercare5988/EasyPoisons) | Plan a batch of rogue poisons and buy the missing reagents in one click (based on Horyoshi's EasyPoisons). |
+| [**Brainwasher**](https://github.com/Fostercare5988/Brainwasher) | Named talent specs at the Goblin Brainwashing Device, with an ActionBars profile per spec. |
+| [**EasyPoisons**](https://github.com/Fostercare5988/EasyPoisons) | Plan a batch of rogue poisons and buy the missing reagents in one click. |
 | [**!ErrorLog**](https://github.com/Fostercare5988/ErrorLog) | Catches every Lua error in a copyable window and finds what makes the game stutter or freeze (`/err`, `/lag`, `/trace`). |
 | [**GearRack**](https://github.com/Fostercare5988/GearRack) | Equipment sets, trinket priorities and weapon swapping. |
 | [**Nameplates**](https://github.com/Fostercare5988/Nameplates) | Separate nameplate appearance and cast displays; enable it on purpose in the addon list. |
