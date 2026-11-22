@@ -7,7 +7,7 @@ repository has a release zip to extract into `Interface/AddOns`.
 
 The addons are being rebuilt one by one: written new for ClassicAPI, waking
 only when something changes, with their settings on a page in **Game Menu >
-AddOn Options**. Seven are done; nine still run their older code.
+AddOn Options**. Eight are done; eight still run their older code.
 
 ## Rebuilt for ClassicAPI
 
@@ -16,6 +16,7 @@ AddOn Options**. Seven are done; nine still run their older code.
 | [**ActionBars**](https://github.com/Fostercare5988/ActionBars) | Modern action bars on the same slots and keys, up to 10 extra bars for spells, items, macros and equipment sets, and named profiles of every bar. Replaces ActionBarProfiles. | `/fbars` |
 | [**Auras**](https://github.com/Fostercare5988/Auras) | Watched auras, a light WeakAuras: your chosen buffs and your target's debuffs, each its own icon with the time left; Only mine; a buff's cooldown after it ends. | `/auras` |
 | [**AutoLazy**](https://github.com/Fostercare5988/AutoLazy) | Auto-rolls farm items, accepts bind-on-pickup, hides roll spam, Shift turns in quests, and gathers the minimap buttons into one tray. | `/al` |
+| [**Bags**](https://github.com/Fostercare5988/Bags) | One window for your bags and one for the bank: search, sort, free space, quality borders, new-item glow, poison badges on weapons and your other characters' bags. Replaces Bagnon. | nothing to set |
 | [**Mail**](https://github.com/Fostercare5988/Mail) | Opens all mail in one click, sends many items at once and completes recipient names. | nothing to set |
 | [**RaidFrames**](https://github.com/Fostercare5988/RaidFrames) | One grid for party and raid: click targeting, missing health, range, aggro and heal-over-time corners, buffs and debuffs. | `/fraid` |
 | [**Tweaks**](https://github.com/Fostercare5988/Tweaks) | Item tooltips (sell prices, compare, quality borders), Sell Junk, chat, the minimap, the world map and Auto Stance. | `/ft` |
@@ -28,7 +29,6 @@ They work and need ClassicAPI, but still run their older code.
 | Addon | What it does |
 | --- | --- |
 | [**AutoBG**](https://github.com/Fostercare5988/AutoBG) | Battleground queues, timers, flag carriers and enemy tracking. |
-| [**Bagnon**](https://github.com/Fostercare5988/Bagnon) | Unified bags and bank, sorting and cached character inventories. |
 | [**BattleText**](https://github.com/Fostercare5988/BattleText) | Scrolling combat text, healing, resource gains and alerts. |
 | [**Brainwasher**](https://github.com/Fostercare5988/Brainwasher) | Named talent specs at the Goblin Brainwashing Device, with an ActionBars profile per spec. |
 | [**EasyPoisons**](https://github.com/Fostercare5988/EasyPoisons) | Plan a batch of rogue poisons and buy the missing reagents in one click. |
