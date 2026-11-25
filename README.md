@@ -34,7 +34,7 @@ They work and need ClassicAPI, but still run their older code.
 | [**EasyPoisons**](https://github.com/Fostercare5988/EasyPoisons) | Plan a batch of rogue poisons and buy the missing reagents in one click. |
 | [**!ErrorLog**](https://github.com/Fostercare5988/ErrorLog) | Catches every Lua error in a copyable window and finds what makes the game stutter or freeze (`/err`, `/lag`, `/trace`). |
 | [**GearRack**](https://github.com/Fostercare5988/GearRack) | Equipment sets, trinket priorities and weapon swapping. |
-| [**Nameplates**](https://github.com/Fostercare5988/Nameplates) | Separate nameplate appearance and cast displays; enable it on purpose in the addon list. |
+| [**Nameplates**](https://github.com/Fostercare5988/Nameplates) | The game's own nameplates made readable: plate size, class colours, health, your target, raid marks, your debuffs and crowd control, cast bars and enemy cooldowns. |
 | [**ThreatMeter**](https://github.com/Fostercare5988/ThreatMeter) | Group threat bars, how much more threat pulls aggro, and a warning before you do. |
 
 ## Ignored for now
