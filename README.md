@@ -7,7 +7,7 @@ repository has a release zip to extract into `Interface/AddOns`.
 
 The addons are being rebuilt one by one: written new for ClassicAPI, waking
 only when something changes, with their settings on a page in **Game Menu >
-AddOn Options**. Eight are done; eight still run their older code.
+AddOn Options**. Nine are done; seven still run their older code.
 
 ## Rebuilt for ClassicAPI
 
@@ -19,6 +19,7 @@ AddOn Options**. Eight are done; eight still run their older code.
 | [**Bags**](https://github.com/Fostercare5988/Bags) | One window for your bags and one for the bank: search, sort, free space, quality borders, new-item glow, poison badges on weapons and your other characters' bags. Replaces Bagnon. | nothing to set |
 | [**Mail**](https://github.com/Fostercare5988/Mail) | Opens all mail in one click, sends many items at once and completes recipient names. | nothing to set |
 | [**RaidFrames**](https://github.com/Fostercare5988/RaidFrames) | One grid for party and raid: click targeting, missing health, range, aggro and heal-over-time corners, buffs and debuffs. | `/fraid` |
+| [**Restock**](https://github.com/Fostercare5988/Restock) | Buys the reagents for the poisons you carry, and Flash Powder, when you open a vendor. Replaces EasyPoisons. | `/restock` |
 | [**Tweaks**](https://github.com/Fostercare5988/Tweaks) | Item tooltips (sell prices, compare, quality borders), Sell Junk, chat, the minimap, the world map and Auto Stance. | `/ft` |
 | [**UnitFrames**](https://github.com/Fostercare5988/UnitFrames) | Blizzard's player, target and pet frames: class colours, exact numbers, cast bars, energy ticks, auras under the frames, the top-right buffs and weapon enchants. | `/ffr` |
 
@@ -31,7 +32,6 @@ They work and need ClassicAPI, but still run their older code.
 | [**AutoBG**](https://github.com/Fostercare5988/AutoBG) | Battleground queues, timers, flag carriers and enemy tracking. |
 | [**BattleText**](https://github.com/Fostercare5988/BattleText) | Scrolling combat text, healing, resource gains and alerts. |
 | [**Brainwasher**](https://github.com/Fostercare5988/Brainwasher) | Named talent specs at the Goblin Brainwashing Device, with an ActionBars profile per spec. |
-| [**EasyPoisons**](https://github.com/Fostercare5988/EasyPoisons) | Plan a batch of rogue poisons and buy the missing reagents in one click. |
 | [**!ErrorLog**](https://github.com/Fostercare5988/ErrorLog) | Catches every Lua error in a copyable window and finds what makes the game stutter or freeze (`/err`, `/lag`, `/trace`). |
 | [**GearRack**](https://github.com/Fostercare5988/GearRack) | Equipment sets, trinket priorities and weapon swapping. |
 | [**Nameplates**](https://github.com/Fostercare5988/Nameplates) | The game's own nameplates made readable: plate size, class colours, health, your target, raid marks, your debuffs and crowd control, cast bars and enemy cooldowns. |
