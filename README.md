@@ -7,7 +7,7 @@ repository has a release zip to extract into `Interface/AddOns`.
 
 The addons are being rebuilt one by one: written new for ClassicAPI, waking
 only when something changes, with their settings on a page in **Game Menu >
-AddOn Options**. Fourteen are done; three still run their older code.
+AddOn Options**. Fifteen are done; two still run their older code.
 
 ## Rebuilt for ClassicAPI
 
@@ -19,6 +19,7 @@ AddOn Options**. Fourteen are done; three still run their older code.
 | [**AutoBG**](https://github.com/Fostercare5988/AutoBG) | Battleground queues and re-queues, objective timers, the Arathi Basin estimate, Warsong flag carriers, enemy frames, flag and stealth warnings, and an open-world enemy list. | `/abg` |
 | [**AutoLazy**](https://github.com/Fostercare5988/AutoLazy) | Auto-rolls farm items, accepts bind-on-pickup, hides roll spam, Shift turns in quests, and gathers the minimap buttons into one tray. | `/al` |
 | [**Bags**](https://github.com/Fostercare5988/Bags) | One window for your bags and one for the bank: search, sort, free space, quality borders, new-item glow, poison badges on weapons and your other characters' bags. Replaces Bagnon. | nothing to set |
+| [**BattleText**](https://github.com/Fostercare5988/BattleText) | Your fight as text that scrolls up beside your character: hits on you, your hits, notices and a few short alerts. | `/bt` |
 | [**Brainwasher**](https://github.com/Fostercare5988/Brainwasher) | Named talent specs at the Goblin Brainwashing Device, with an ActionBars profile per spec. | nothing to set |
 | [**GearRack**](https://github.com/Fostercare5988/GearRack) | Gear sets that the game swaps, sets that put themselves on (mounting, a stance, a city, a battleground, the target's type), a trinket queue and two small bars of the gear you wear. | `/gr` |
 | [**Mail**](https://github.com/Fostercare5988/Mail) | Opens all mail in one click, sends many items at once and completes recipient names. | nothing to set |
@@ -34,7 +35,6 @@ They work and need ClassicAPI, but still run their older code.
 
 | Addon | What it does |
 | --- | --- |
-| [**BattleText**](https://github.com/Fostercare5988/BattleText) | Scrolling combat text, healing, resource gains and alerts. |
 | [**!ErrorLog**](https://github.com/Fostercare5988/ErrorLog) | Catches every Lua error in a copyable window and finds what makes the game stutter or freeze (`/err`, `/lag`, `/trace`). |
 | [**ThreatMeter**](https://github.com/Fostercare5988/ThreatMeter) | Group threat bars, how much more threat pulls aggro, and a warning before you do. |
 
