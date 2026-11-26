@@ -44,10 +44,6 @@ Installed and in use, but not worked on.
 
 | Addon | What it does |
 | --- | --- |
-| [**AtlasLoot**](https://github.com/Fostercare5988/AtlasLoot) (private) | Loot tables for dungeons, raids, world bosses and other sources. |
-| [**aux-addon**](https://github.com/Fostercare5988/aux-addon) | Auction-house searches, buying, selling and price history. |
-| [**BigWigs**](https://github.com/Fostercare5988/BigWigs) (private) | Boss encounter warnings and timer bars. |
-| **ShaguDPS** | Damage and DPS meter (Shagu's addon; no repository here). |
 | [**SuperAPI**](https://github.com/Fostercare5988/SuperAPI) (private) | Companion addon for the SuperWoW extension. |
 | [**UnitXP_SP3_Addon**](https://github.com/Fostercare5988/UnitXP_SP3_Addon) (private) | Settings menu for the UnitXP SP3 extension. |
 
