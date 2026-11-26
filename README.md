@@ -7,7 +7,7 @@ repository has a release zip to extract into `Interface/AddOns`.
 
 The addons are being rebuilt one by one: written new for ClassicAPI, waking
 only when something changes, with their settings on a page in **Game Menu >
-AddOn Options**. Thirteen are done; four still run their older code.
+AddOn Options**. Fourteen are done; three still run their older code.
 
 ## Rebuilt for ClassicAPI
 
@@ -16,6 +16,7 @@ AddOn Options**. Thirteen are done; four still run their older code.
 | [**ActionBars**](https://github.com/Fostercare5988/ActionBars) | Modern action bars on the same slots and keys, up to 10 extra bars for spells, items, macros and equipment sets, and named profiles of every bar. Replaces ActionBarProfiles. | `/fbars` |
 | [**Auras**](https://github.com/Fostercare5988/Auras) | Watched auras, a light WeakAuras: your chosen buffs and your target's debuffs, each its own icon with the time left; Only mine; a buff's cooldown after it ends. | `/auras` |
 | [**AutoArena**](https://github.com/Fostercare5988/AutoArena) | The other team in an arena, found before the gates open: class-coloured health, casts, PvP trinket and racial cooldowns, and who targets whom. Split out of AutoBG. | `/aa` |
+| [**AutoBG**](https://github.com/Fostercare5988/AutoBG) | Battleground queues and re-queues, objective timers, the Arathi Basin estimate, Warsong flag carriers, enemy frames, flag and stealth warnings, and an open-world enemy list. | `/abg` |
 | [**AutoLazy**](https://github.com/Fostercare5988/AutoLazy) | Auto-rolls farm items, accepts bind-on-pickup, hides roll spam, Shift turns in quests, and gathers the minimap buttons into one tray. | `/al` |
 | [**Bags**](https://github.com/Fostercare5988/Bags) | One window for your bags and one for the bank: search, sort, free space, quality borders, new-item glow, poison badges on weapons and your other characters' bags. Replaces Bagnon. | nothing to set |
 | [**Brainwasher**](https://github.com/Fostercare5988/Brainwasher) | Named talent specs at the Goblin Brainwashing Device, with an ActionBars profile per spec. | nothing to set |
@@ -33,7 +34,6 @@ They work and need ClassicAPI, but still run their older code.
 
 | Addon | What it does |
 | --- | --- |
-| [**AutoBG**](https://github.com/Fostercare5988/AutoBG) | Battleground queues, timers, flag carriers and enemy tracking. |
 | [**BattleText**](https://github.com/Fostercare5988/BattleText) | Scrolling combat text, healing, resource gains and alerts. |
 | [**!ErrorLog**](https://github.com/Fostercare5988/ErrorLog) | Catches every Lua error in a copyable window and finds what makes the game stutter or freeze (`/err`, `/lag`, `/trace`). |
 | [**ThreatMeter**](https://github.com/Fostercare5988/ThreatMeter) | Group threat bars, how much more threat pulls aggro, and a warning before you do. |
