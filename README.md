@@ -7,7 +7,7 @@ repository has a release zip to extract into `Interface/AddOns`.
 
 The addons are being rebuilt one by one: written new for ClassicAPI, waking
 only when something changes, with their settings on a page in **Game Menu >
-AddOn Options**. Fifteen are done; two still run their older code.
+AddOn Options**. Sixteen are done; one still runs its older code.
 
 ## Rebuilt for ClassicAPI
 
@@ -26,6 +26,7 @@ AddOn Options**. Fifteen are done; two still run their older code.
 | [**Nameplates**](https://github.com/Fostercare5988/Nameplates) | The game's own nameplates made readable: plate size, class colours, health, your target, raid marks, your debuffs and crowd control, cast bars and enemy cooldowns. | `/fnp` |
 | [**RaidFrames**](https://github.com/Fostercare5988/RaidFrames) | One grid for party and raid: click targeting, missing health, range, aggro and heal-over-time corners, buffs and debuffs. | `/fraid` |
 | [**Restock**](https://github.com/Fostercare5988/Restock) | Buys the reagents for the poisons you carry, and Flash Powder, when you open a vendor. Replaces EasyPoisons. | `/restock` |
+| [**ThreatMeter**](https://github.com/Fostercare5988/ThreatMeter) | Everyone's threat on your target in a group fight, how much more pulls aggro, and a warning before you do. | `/tm` |
 | [**Tweaks**](https://github.com/Fostercare5988/Tweaks) | Item tooltips (sell prices, compare, quality borders), Sell Junk, chat, the minimap, the world map and Auto Stance. | `/ft` |
 | [**UnitFrames**](https://github.com/Fostercare5988/UnitFrames) | Blizzard's player, target and pet frames: class colours, exact numbers, cast bars, energy ticks, auras under the frames, the top-right buffs and weapon enchants. | `/ffr` |
 
@@ -36,7 +37,6 @@ They work and need ClassicAPI, but still run their older code.
 | Addon | What it does |
 | --- | --- |
 | [**!ErrorLog**](https://github.com/Fostercare5988/ErrorLog) | Catches every Lua error in a copyable window and finds what makes the game stutter or freeze (`/err`, `/lag`, `/trace`). |
-| [**ThreatMeter**](https://github.com/Fostercare5988/ThreatMeter) | Group threat bars, how much more threat pulls aggro, and a warning before you do. |
 
 ## Ignored for now
 
